@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/CLionProjects/Top10_words/hashtable.h
+
+C:/Users/User/CLionProjects/Top10_words/linkedList.h
+
+C:/Users/User/CLionProjects/Top10_words/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+ctime
+-
+hashtable.h
+C:/Users/User/CLionProjects/Top10_words/hashtable.h
+linkedList.h
+C:/Users/User/CLionProjects/Top10_words/linkedList.h
+

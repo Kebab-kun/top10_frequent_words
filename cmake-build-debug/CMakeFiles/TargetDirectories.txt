@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/Top10_words/cmake-build-debug/CMakeFiles/Top10_words.dir
+C:/Users/User/CLionProjects/Top10_words/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/Top10_words/cmake-build-debug/CMakeFiles/rebuild_cache.dir
